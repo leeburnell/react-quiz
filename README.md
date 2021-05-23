@@ -1,3 +1,8 @@
+# Running the project
+
+Download source files
+From VSCode - open a terminal, cd into your project directory and run npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
